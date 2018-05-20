@@ -1,4 +1,4 @@
-<h1 align="center">web-push</h1>
+<h1>Node web push notification.</h1>
 
 # Install
 
